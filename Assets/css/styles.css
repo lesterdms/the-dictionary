@@ -813,6 +813,9 @@ img{
     color: #b2b2b2;
     margin-top: var(--mb-3);
 }
+.footer__copy a{
+    color: var(--title-color);
+}
 .footer__title,
 .footer__link,
 .footer__social{
